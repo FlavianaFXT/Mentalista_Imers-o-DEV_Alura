@@ -4,7 +4,7 @@ Projeto desenvolvido durante as aulas da Imersão DEV Alura - Outubro 2022, que 
 Necessárias correções quanto a funcionalidade do Botão `chutar`
 
 
-INDICE
+# INDICE
 - [APRESENTAÇÃO](#APRESENTAÇÃO)
 - [DESCRIÇÃO DO PROJETO](#Descrição-Do-Projeto)
 - [TECNOLOGIAS UTILIZADAS](#Tecnologias-Utilizadas)
