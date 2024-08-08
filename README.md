@@ -1,4 +1,5 @@
-# Mentalista_Imers-o-DEV_Alura
+# Mentalista
+
 Projeto desenvolvido durante as aulas da Imersão DEV Alura - Outubro 2022, que tem como objetivo o usuário advinhar o número escolhido pela máquina.
 Necessárias correções quanto a funcionalidade do Botão `chutar`
 
@@ -61,7 +62,8 @@ IMAGEM APOS CHUTE ----------------
 Composto por um arquivo .html, outro .css, .js e o README com a descrição do projeto.
 
 
-INSERIR ----------------------------
+![image](https://github.com/user-attachments/assets/900c3f11-c07a-4297-8d19-9cf29161eff8)
+
 
 
 # TECNOLOGIAS UTILIZADAS
